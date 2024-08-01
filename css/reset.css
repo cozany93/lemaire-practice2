@@ -37,7 +37,7 @@
 
 html,body {
     font-size: 100%;
-    /* overflow-x: hidden; */
+    overflow-x: hidden;
     font-family: 'Pretendard', sans-serif;
     /* font-family: "EB Garamond", serif; */
     /* 전체적으로 설정해줄 폰트 지정 후 부분적으로 들어가는 텍스트 개별적으로 지정해보겠음 */
